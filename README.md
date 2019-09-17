@@ -1,3 +1,2 @@
 # Tank Game
-testing how github works!
-u suck at riven
+Wii Play Tank Game
